@@ -30,6 +30,7 @@ namespace Computadora.Entidades
         public string Webcam { get => webcam; set => webcam = value; }
         public string Bocinas { get => bocinas; set => bocinas = value; }
         public string Tarjetamadre { get => tarjetamadre; set => tarjetamadre = value; }
+        
         public string Microprocesador { get => microprocesador; set => microprocesador = value; }
     }
 }
