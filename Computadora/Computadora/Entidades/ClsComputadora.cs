@@ -18,6 +18,7 @@ namespace Computadora.Entidades
         private String webcam;
         private String bocinas;
         private String tarjetamadre;
+        private String microprocesador;
 
         public string Mouse { get => mouse; set => mouse = value; }
         public string Teclado { get => teclado; set => teclado = value; }
@@ -29,5 +30,6 @@ namespace Computadora.Entidades
         public string Webcam { get => webcam; set => webcam = value; }
         public string Bocinas { get => bocinas; set => bocinas = value; }
         public string Tarjetamadre { get => tarjetamadre; set => tarjetamadre = value; }
+        public string Microprocesador { get => microprocesador; set => microprocesador = value; }
     }
 }
