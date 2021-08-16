@@ -9,7 +9,7 @@ namespace Computadora
     class Program
     {
         static void Main(string[] args)
-        {
+        {//hola compañeros
         }
     }
 }
